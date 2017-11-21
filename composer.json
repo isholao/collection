@@ -3,7 +3,7 @@
     "description":"PHP Simple Collection Library",
     "type": "library",
     "license": "BSD-3-Clause",
-    "homepage": "https://git.tolu.pw/?p=collection.git",
+    "homepage": "https://github.com/isholao/collection",
     "authors": [
         {
             "name": "Ishola O",
