@@ -1,0 +1,29 @@
+{
+    "name": "isholao/collection",
+    "description":"PHP Simple Collection Library",
+    "type": "library",
+    "homepage": "https://git.tolu.pw/?p=collection.git",
+    "authors": [
+        {
+            "name": "Ishola O",
+            "email": "ishola.tolu@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Isholao\\Collection\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Isholao\\Collection\\Tests\\": "tests/"
+        }
+    }
+}
